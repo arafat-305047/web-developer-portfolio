@@ -112,6 +112,7 @@ nav a{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px; /* 166.667% */
+    margin-bottom: 20px;
     }
  .me{
     margin:  130 ;
@@ -124,4 +125,112 @@ nav a{
  .about-info{
     text-align: center;
  }
+.what{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.do{
+    text-align: center;
+    align-content: center;
+    padding: 10px 345px 20px 345px;
+}
+.skill{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    margin-left: 230px;
+    margin-right: 230px;
+    padding: 50px;
+    gap: 24px;
     
+}
+
+    
+        
+#js{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06); 
+}
+#react{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+#node{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+#mongo{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06)
+}
+.re-title{
+    text-align: center;
+    color: ( #181818);
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+.edu-title{
+    color: #757575;
+
+    font-size: 30px;
+
+    font-weight: 700;
+}
+.resume-container{
+    display: flex;
+    gap: 70px   ;
+}
+.experience{
+    margin-right: 230px;
+    margin-left: 230px;
+}
+.download{
+    text-align: center;
+    border-radius: 5px;
+    background: #FD6E0A;
+    margin-left: 700px;
+    margin-right: 700pxs;
+    margin-top: 40px;
+    width: 200px;
+height: 64px;
+padding: 27px;
+color: var(--White-Color, #FFF);
+
+font-size: 20px;
+
+font-weight: 700;
+
+
+
+}
+.foot{
+    width: 1000px;
+    height: 780px;
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 113px;
+    padding: 230px;
+    gap: 100px;
+    
+}
+.p{
+    width: 562px;
+}
+.b{
+    width: 150px;
+height: 64px;
+border-radius: 5px;
+background: #FD6E0A;
+
+}
+
